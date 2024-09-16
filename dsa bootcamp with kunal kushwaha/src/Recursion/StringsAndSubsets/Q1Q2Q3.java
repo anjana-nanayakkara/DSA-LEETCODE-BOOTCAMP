@@ -1,6 +1,6 @@
 package Recursion.StringsAndSubsets;
 
-public class Q1 {
+public class Q1Q2Q3 {
 
     public static void main(String[] args) {
         String unProcessed = "abacaappleappdae";
